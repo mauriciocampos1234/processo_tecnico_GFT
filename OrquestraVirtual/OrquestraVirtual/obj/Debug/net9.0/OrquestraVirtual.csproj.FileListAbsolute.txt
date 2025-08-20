@@ -1,0 +1,15 @@
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\bin\Debug\net9.0\OrquestraVirtual.exe
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\bin\Debug\net9.0\OrquestraVirtual.deps.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\bin\Debug\net9.0\OrquestraVirtual.runtimeconfig.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\bin\Debug\net9.0\OrquestraVirtual.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\bin\Debug\net9.0\OrquestraVirtual.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\OrquestraVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\OrquestraVirtual.AssemblyInfoInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\OrquestraVirtual.AssemblyInfo.cs
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\OrquestraVirtual.csproj.CoreCompileInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\OrquestraVirtual.sourcelink.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\OrquestraVirtual.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\refint\OrquestraVirtual.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\OrquestraVirtual.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\OrquestraVirtual.genruntimeconfig.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\OrquestraVirtual\OrquestraVirtual\obj\Debug\net9.0\ref\OrquestraVirtual.dll
