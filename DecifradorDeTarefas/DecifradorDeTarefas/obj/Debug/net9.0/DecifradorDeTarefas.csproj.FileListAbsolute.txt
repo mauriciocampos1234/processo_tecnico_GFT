@@ -1,0 +1,15 @@
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\DecifradorDeTarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\DecifradorDeTarefas.AssemblyInfoInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\DecifradorDeTarefas.AssemblyInfo.cs
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\DecifradorDeTarefas.csproj.CoreCompileInputs.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\DecifradorDeTarefas.sourcelink.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\bin\Debug\net9.0\DecifradorDeTarefas.exe
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\bin\Debug\net9.0\DecifradorDeTarefas.deps.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\bin\Debug\net9.0\DecifradorDeTarefas.runtimeconfig.json
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\bin\Debug\net9.0\DecifradorDeTarefas.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\bin\Debug\net9.0\DecifradorDeTarefas.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\DecifradorDeTarefas.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\refint\DecifradorDeTarefas.dll
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\DecifradorDeTarefas.pdb
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\DecifradorDeTarefas.genruntimeconfig.cache
+C:\area-de-desenvolvimentos\processo_tecnico_GFT\DecifradorDeTarefas\DecifradorDeTarefas\obj\Debug\net9.0\ref\DecifradorDeTarefas.dll
