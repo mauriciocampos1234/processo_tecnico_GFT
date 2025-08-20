@@ -1,0 +1,61 @@
+Assunto: Criação de Sistema de Controle de Pedidos em C# com Lógica de Negócio
+
+Prompt:
+
+Olá, ChatGpt!
+
+Por favor, crie um sistema de console completo e funcional em C# (.NET) que simule o controle de pedidos de uma lanchonete. O código deve ser bem estruturado e seguir rigorosamente os requisitos abaixo.
+
+1. Modelagem das Classes (POO):
+
+Crie uma classe Produto que deverá conter as seguintes propriedades públicas:
+
+Nome (do tipo string)
+
+Preco (do tipo decimal, para representar valores monetários com precisão)
+
+Categoria (do tipo string)
+
+Crie uma classe Pedido que deverá conter:
+
+Uma lista privada para armazenar os objetos Produto adicionados (ex: private List<Produto> _itens;).
+
+Um método público AdicionarProduto(Produto produto) para adicionar um item à lista.
+
+Um método público ExibirResumo() que conterá a lógica de cálculo e exibição.
+
+2. Lógica de Negócio:
+
+Dentro do método ExibirResumo() da classe Pedido, implemente a seguinte lógica:
+
+Calcule o subtotal somando o Preco de todos os produtos na lista.
+
+Verifique se o subtotal é maior que R$ 100,00.
+
+Se for, aplique um desconto de 10% sobre o subtotal.
+
+Exiba no console um resumo claro contendo:
+
+A lista de todos os produtos no pedido com seus respectivos preços.
+
+O valor do subtotal.
+
+O valor do desconto (se aplicável).
+
+O valor total final a ser pago.
+
+3. Simulação e Demonstração:
+
+Na classe Program, dentro do método Main, crie uma simulação que demonstre o funcionamento completo do sistema:
+
+Instancie ao menos 3 objetos Produto diferentes para servir como cardápio.
+
+Crie um novo objeto Pedido.
+
+Use o método AdicionarProduto para adicionar itens a este pedido, garantindo que o valor total ultrapasse R$ 100,00 para que a lógica de desconto seja testada.
+
+Chame o método ExibirResumo() para mostrar o resultado final com o desconto aplicado.
+
+(Teste de Cenário Adicional): Crie um segundo objeto Pedido, adicione produtos cujo total não ultrapasse R$ 100,00, e chame ExibirResumo() para ele, demonstrando que o desconto não é aplicado.
+
+Por favor, adicione comentários ao código para explicar as partes principais, como a lógica do desconto e o cálculo do total.
